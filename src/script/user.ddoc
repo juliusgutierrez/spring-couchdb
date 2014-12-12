@@ -1,0 +1,11 @@
+{
+    "views":
+        {
+        "byUsername": {"map":" function (doc, meta) {\n
+                if(doc._class == \"com.use.springcouchdb.user.model.User\" && doc.username) { \n
+                    emit(doc.username, null);\n
+                }
+                \n}"
+            }
+        }
+}

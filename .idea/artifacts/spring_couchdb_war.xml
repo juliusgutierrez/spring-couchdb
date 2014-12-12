@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring-couchdb:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="spring-couchdb-webapp.war">
+      <element id="artifact" artifact-name="spring-couchdb:war exploded" />
+    </root>
+  </artifact>
+</component>

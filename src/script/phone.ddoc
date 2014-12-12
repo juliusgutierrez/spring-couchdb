@@ -1,0 +1,11 @@
+{
+    "views":
+        {
+        "all": {"map":" function (doc, meta) {\n
+                if(doc._class == \"com.use.springcouchdb.phone.model.Phone\") { \n
+                    emit(null, null);\n
+                }
+                \n}"
+            }
+        }
+}
