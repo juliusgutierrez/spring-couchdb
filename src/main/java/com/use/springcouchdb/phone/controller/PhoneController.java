@@ -58,9 +58,23 @@ public class PhoneController {
 
     @RequestMapping(value = "/phones")
     public ModelAndView create() {
-        ModelAndView mv = new ModelAndView("phones");
+        ModelAndView mv = new ModelAndView("index");
         return mv;
     }
+
+    @RequestMapping(value = "/phones-list")
+    public ModelAndView phoneslist() {
+        ModelAndView mv = new ModelAndView("phones-list");
+        return mv;
+    }
+
+    @RequestMapping(value = "/phone-details")
+    public ModelAndView phonedetails() {
+        ModelAndView mv = new ModelAndView("phone-details");
+        return mv;
+    }
+
+
 
     @RequestMapping(value = "/get-all-phone")
     @ResponseBody

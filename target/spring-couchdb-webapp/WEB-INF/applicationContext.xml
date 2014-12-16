@@ -20,7 +20,7 @@
 
     <context:component-scan base-package="com.use.springcouchdb" scoped-proxy="targetClass"/>
     
-    <couchbase:repositories base-package="com.use.springcouchdb.phone.repository"/>
+    <!--<couchbase:repositories base-package="com.use.springcouchdb.phone.repository"/>-->
 
     <couchbase:couchbase id="couchbase-first" bucket="test_bucket" password="" host="localhost" />
     <couchbase:template id="cb-template-first" client-ref="couchbase-first"/>
