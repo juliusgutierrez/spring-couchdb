@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="495cc80f-58a7-4d4b-afdc-b696ebbaad78" name="Default" comment="" />
+    <list default="true" id="495cc80f-58a7-4d4b-afdc-b696ebbaad78" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="spring-couchdb.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -48,14 +51,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/static/js/contacts/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.29698375" vertical-offset="25" max-vertical-offset="680">
-              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="25" max-vertical-offset="680">
+              <caret line="24" column="50" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
               <folding>
                 <element signature="e#0#47#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.04187192" vertical-offset="0" max-vertical-offset="406">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -98,6 +111,9 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="true" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="modificationStamps">
@@ -192,7 +208,7 @@
     <option name="width" value="1366" />
     <option name="height" value="747" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -619,7 +635,7 @@
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/eloans" />
-    <property name="SearchEverywhereHistoryKey" value="app&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/webapp/static/js/phone/app.js&#10;phone&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/java/com/use/springcouchdb/phone/controller/PhoneController.java&#10;index&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/webapp/WEB-INF/views/index.jsp&#10;ap&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/webapp/static/js/phone/app.js&#10;phonecon&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/java/com/use/springcouchdb/phone/controller/PhoneController.java&#10;ph&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/java/com/use/springcouchdb/phone/controller/PhoneController.java&#10;inde&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/webapp/WEB-INF/views/index.jsp&#10;cont&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/webapp/static/js/phone/controller.js&#10;app.&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/webapp/static/js/phone/app.js&#10;wel&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/webapp/welcome.jsp&#10;web&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/webapp/WEB-INF/web.xml&#10;con&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/webapp/static/js/controller/controller.js&#10;contr&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/java/com/use/springcouchdb/phone/controller/PhoneController.java&#10;phoneContr&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/java/com/use/springcouchdb/phone/controller/PhoneController.java&#10;json&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/script/data/phones.json&#10;test&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/java/com/use/springcouchdb/controller/TestController.java&#10;phoneCon&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/java/com/use/springcouchdb/phone/controller/PhoneController.java&#10;applic&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/webapp/WEB-INF/applicationContext.xml&#10;Phone&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/java/com/use/springcouchdb/phone/model/Phone.java&#10;phon&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/java/com/use/springcouchdb/phone/model/Phone.java&#10;phone.&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/java/com/use/springcouchdb/phone/model/Phone.java&#10;pom&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/pom.xml&#10;&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/java/com/use/springcouchdb/user/model/User.java&#10;applica&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/webapp/WEB-INF/applicationContext.xml&#10;Permi&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/java/com/use/springcouchdb/user/model/Permission.java&#10;user&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/java/com/use/springcouchdb/user/model/User.java&#10;sprinc&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/webapp/WEB-INF/spring-security-context.xml&#10;User&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/java/com/use/springcouchdb/user/model/User.java&#10;appli&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/webapp/WEB-INF/applicationContext.xml&#10;we&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/webapp/WEB-INF/web.xml&#10;po&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/pom.xml" />
+    <property name="SearchEverywhereHistoryKey" value="readme&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/README.md&#10;app&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/webapp/static/js/phone/app.js&#10;phone&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/java/com/use/springcouchdb/phone/controller/PhoneController.java&#10;index&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/webapp/WEB-INF/views/index.jsp&#10;ap&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/webapp/static/js/phone/app.js&#10;phonecon&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/java/com/use/springcouchdb/phone/controller/PhoneController.java&#10;ph&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/java/com/use/springcouchdb/phone/controller/PhoneController.java&#10;inde&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/webapp/WEB-INF/views/index.jsp&#10;cont&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/webapp/static/js/phone/controller.js&#10;app.&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/webapp/static/js/phone/app.js&#10;wel&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/webapp/welcome.jsp&#10;web&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/webapp/WEB-INF/web.xml&#10;con&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/webapp/static/js/controller/controller.js&#10;contr&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/java/com/use/springcouchdb/phone/controller/PhoneController.java&#10;phoneContr&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/java/com/use/springcouchdb/phone/controller/PhoneController.java&#10;json&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/script/data/phones.json&#10;test&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/java/com/use/springcouchdb/controller/TestController.java&#10;phoneCon&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/java/com/use/springcouchdb/phone/controller/PhoneController.java&#10;applic&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/webapp/WEB-INF/applicationContext.xml&#10;Phone&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/java/com/use/springcouchdb/phone/model/Phone.java&#10;phon&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/java/com/use/springcouchdb/phone/model/Phone.java&#10;phone.&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/java/com/use/springcouchdb/phone/model/Phone.java&#10;pom&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/pom.xml&#10;&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/java/com/use/springcouchdb/user/model/User.java&#10;applica&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/webapp/WEB-INF/applicationContext.xml&#10;Permi&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/java/com/use/springcouchdb/user/model/Permission.java&#10;user&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/java/com/use/springcouchdb/user/model/User.java&#10;sprinc&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/webapp/WEB-INF/spring-security-context.xml&#10;User&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/java/com/use/springcouchdb/user/model/User.java&#10;appli&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/webapp/WEB-INF/applicationContext.xml&#10;we&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/src/main/webapp/WEB-INF/web.xml&#10;po&#9;FILE&#9;file:///home/usegutierrez/bitbucket/ecms/spring-couchdb/pom.xml" />
     <property name="LayoutCode.rearrangeEntriesJava" value="false" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
@@ -1144,22 +1160,22 @@
       <workItem from="1418602736518" duration="1105000" />
       <workItem from="1418605771009" duration="299000" />
       <workItem from="1418606094443" duration="20185000" />
-      <workItem from="1418689165550" duration="4960000" />
+      <workItem from="1418689165550" duration="5496000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103889000" />
+    <option name="totallyTimeSpent" value="104425000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="21" width="1366" height="747" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3298969" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3298969" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -1261,13 +1277,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/use/springcouchdb/user/model/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.572327" vertical-offset="265" max-vertical-offset="901">
-          <caret line="54" column="28" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/use/springcouchdb/user/service/UserService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3474843" vertical-offset="0" max-vertical-offset="636">
@@ -1631,11 +1640,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/static/js/contacts/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29698375" vertical-offset="25" max-vertical-offset="680">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="25" max-vertical-offset="680">
+          <caret line="24" column="50" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
           <folding>
             <element signature="e#0#47#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.04187192" vertical-offset="0" max-vertical-offset="406">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
